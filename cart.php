@@ -9,6 +9,8 @@
             'photo2'        => 'a2.png',
         ),
 
+
+        
         array(
             'name'          => "Sasuke",
             'description'   => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nihil ut quis, tempore non debitis corporis ipsam. Ipsa consectetur alias earum aspernatur excepturi molestiae saepe provident molestias qui! Ipsum, aspernatur.",
