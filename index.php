@@ -5,8 +5,8 @@
             'name'          => "Pop Art Print Jacket",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "800",
-            'photo1'        => 'a1.png',
-            'photo2'        => 'a2.jpg',
+            'photo1'        => 'produc1A.jpg',
+            'photo2'        => 'produc1B.jpg',
         ),
         array(
             'name'          => "Blue Zip Up Jacket",
