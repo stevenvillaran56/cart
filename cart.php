@@ -5,57 +5,57 @@
             'name'          => "Pop Art Print Jacket",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "800",
-            'photo1'        => 'produc1A.jpg',
-            'photo2'        => 'produc1B.jpg',
+            'photo1'        => 'a1.png',
+            'photo2'        => 'a2.png',
         ),
         array(
             'name'          => "Blue Zip Up Jacket",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "650",
-            'photo1'        => 'produc2A.jpg',
-            'photo2'        => 'produc2B.jpg',
+            'photo1'        => 'b2.png',
+            'photo2'        => 'b1.png',
         ),
         array(
             'name'          => "Helographic Zip Up Jacket ",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "650",
-            'photo1'        => 'produc3A.jpg',
-            'photo2'        => 'produc3B.jpg',
+            'photo1'        => 'c2.png',
+            'photo2'        => 'c1.png',
         ),
         array(
             'name'          => "Graphic Striped Vasity Jacket",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "650",
-            'photo1'        => 'produc4A.jpg',
-            'photo2'        => 'produc4B.jpg',
+            'photo1'        => 'd1.png',
+            'photo2'        => 'd2.png',
         ),
         array(
             'name'          => "Half Zip Hooded Jacket",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "650",
-            'photo1'        => 'produc5A.jpg',
-            'photo2'        => 'produc5B.jpg',
+            'photo1'        => 'e1.png',
+            'photo2'        => 'e2.png',
         ),
         array(
             'name'          => "Letter Patched Varsity Jacket",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "650",
-            'photo1'        => 'produc6A.jpg',
-            'photo2'        => 'produc6B.jpg',
+            'photo1'        => 'f1.png',
+            'photo2'        => 'f2.png',
         ),
         array(
             'name'          => "Brown Patched Varsity Jacket",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "650",
-            'photo1'        => 'produc7A.jpg',
-            'photo2'        => 'produc7B.jpg',
+            'photo1'        => 'g1.png',
+            'photo2'        => 'g2.png',
         ),
         array(
             'name'          => " Graphic Contrast Trim Jacket ",
             'description'   => "lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..",
             'price'         => "650",
-            'photo1'        => 'produc8A.jpg',
-            'photo2'        => 'produc8B.jpg',
+            'photo1'        => 'h1.png',
+            'photo2'        => 'h2.png',
         )
     );
 
@@ -81,14 +81,14 @@ if(isset($_POST['btnUpdate'])){
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <link rel="stylesheet" href="shopping_cart.css">
+    <link rel="stylesheet" href="zed.css">
     <title>Cart</title>
 </head>
 <body>
     <div class="container pt-5">
         <div class="row">
             <div class="col-md-10">
-                <h1><i class="fa fa-store"></i> Means Wear Shop</h1>
+                <h1><i class="fa fa-store"></i> Naruto Figures Shop</h1>
             </div>
             <div class="col-md-2">
                 <a href="cart.php" class="btn btn-primary">

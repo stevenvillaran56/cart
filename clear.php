@@ -8,14 +8,14 @@
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <link rel="stylesheet" href="shopping_cart.css">
+    <link rel="stylesheet" href="zed.css">
 	<title>Clear</title>
 </head>
 <body>
 	<div class="container">
 		<div class="row">
                 <div class="col-md-10">
-                    <h1><i class="fa fa-store"></i> Means Wear Shop</h1>
+                    <h1><i class="fa fa-store"></i> Naruto Figures Shop</h1>
                 </div>
                 <div class="col-md-2">
                     <a href="cart.php" class="btn btn-primary">
