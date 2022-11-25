@@ -1,5 +1,4 @@
 <?php 
-
    session_start(); 
     $arrProducts = array(
         array(
@@ -133,7 +132,7 @@ if(isset($_POST['btnRemove'])){
                             <?php echo $arrProducts[$_GET['k']]['name']; ?>
                             <span class="badge badge-dark">₱<?php echo $arrProducts[$_GET['k']]['price']; ?></span>
                         </h3>
-                             <p><?php echo $arrProducts[$_GET['key']]['description']; ?></p>
+                        <p><?php echo $arrProducts[$_GET['k']]['description']; ?></p>
                         <hr>
                             <input type="hidden" name="hdnKey" value="<?php echo $_GET['k']; ?>">
                             <input type="hidden" name="hdnSize" value="<?php echo $_GET['s']; ?>">
